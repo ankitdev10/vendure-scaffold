@@ -9,6 +9,10 @@ Useful links:
 -   [Vendure on GitHub](https://github.com/vendure-ecommerce/vendure)
 -   [Vendure plugin template](https://github.com/vendure-ecommerce/plugin-template)
 
+##Learn More about linting
+
+-   [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
 ## Directory structure
 
 -   `/src` contains the source code of your Vendure server. All your custom code and plugins should reside here.
