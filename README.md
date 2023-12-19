@@ -9,7 +9,7 @@ Useful links:
 -   [Vendure on GitHub](https://github.com/vendure-ecommerce/vendure)
 -   [Vendure plugin template](https://github.com/vendure-ecommerce/plugin-template)
 
-##Learn More about linting
+## Learn More about linting
 
 -   [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
