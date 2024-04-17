@@ -3,3 +3,4 @@ src/custom-admin-ui/admin-ui
 static/assets
 static/email/test-emails
 .env
+dist
