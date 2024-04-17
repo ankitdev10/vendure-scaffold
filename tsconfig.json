@@ -14,6 +14,7 @@
         "baseUrl": "./"
     },
     "exclude": ["node_modules", "migration.ts", "src/plugins/**/ui/*", "src/custom-admin-ui/admin-ui"],
+     "include": ["src/**/*", "**/*.tsx"],
     "ts-node": {
         "files": true
     }
