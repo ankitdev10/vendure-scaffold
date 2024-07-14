@@ -18,10 +18,10 @@
         "format": "prettier --write --ignore-unknown"
     },
     "dependencies": {
-        "@vendure/admin-ui-plugin": "^2.2.3",
-        "@vendure/asset-server-plugin": "^2.2.3",
-        "@vendure/core": "^2.2.3",
-        "@vendure/email-plugin": "^2.2.3",
+        "@vendure/admin-ui-plugin": "^2.2.7",
+        "@vendure/asset-server-plugin": "^2.2.7",
+        "@vendure/core": "^2.2.7",
+        "@vendure/email-plugin": "^2.2.7",
         "dotenv": "16.3.1",
         "pg": "8.11.3",
         "typescript": "5.4.5"
