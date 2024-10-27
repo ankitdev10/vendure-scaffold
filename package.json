@@ -18,10 +18,10 @@
         "format": "prettier --write --ignore-unknown"
     },
     "dependencies": {
-        "@vendure/admin-ui-plugin": "^2.2.7",
-        "@vendure/asset-server-plugin": "^2.2.7",
-        "@vendure/core": "^2.2.7",
-        "@vendure/email-plugin": "^2.2.7",
+        "@vendure/admin-ui-plugin": "^3.0.5",
+        "@vendure/asset-server-plugin": "^3.0.5",
+        "@vendure/core": "^3.0.5",
+        "@vendure/email-plugin": "^3.0.5",
         "dotenv": "16.3.1",
         "pg": "8.11.3",
         "typescript": "5.4.5"
@@ -36,7 +36,6 @@
         "@vendure/ui-devkit": "^2.2.3",
         "concurrently": "8.2.2",
         "husky": "^8.0.0",
-        "sharp": "0.33.0",
         "lint-staged": "^15.2.0",
         "prettier": "^3.1.1",
         "ts-node": "10.9.2",
